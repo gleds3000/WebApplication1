@@ -1,0 +1,2 @@
+﻿Create table GERAL
+ Ref_num,	Type_symbol,	Soma_horas_totais,	Soma_Horas_Util,	Grupo_now_name,	Request_Category,	RequestOpen_date,	Request_urgency,	Request_Severity,	External_system_ticket,	Request_status,	Request_close_date,	Assignee_now_last_name
